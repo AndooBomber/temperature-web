@@ -1,0 +1,45 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "node server.js",
+    "next": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "apisauce": "^1.0.0",
+    "babel-plugin-styled-components": "^1.5.1",
+    "base-64": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "chart.js": "^2.7.3",
+    "express": "^4.16.4",
+    "mqtt": "^2.18.8",
+    "next": "^7.0.2",
+    "path": "^0.12.7",
+    "path-match": "^1.2.4",
+    "react": "^16.6.3",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.1",
+    "urijs": "^1.19.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-eslint": "^8.2.3",
+    "babel-plugin-import": "^1.8.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.10.0",
+    "eslint-plugin-flowtype": "^2.49.3",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.4.0",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^1.14.2",
+    "react-modal": "^3.6.1",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0"
+  }
+}
